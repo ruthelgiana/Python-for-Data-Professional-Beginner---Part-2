@@ -1,0 +1,5 @@
+def nama_fungsi(argument):
+    statement_1
+    …
+    statement_n
+    return returned_value
